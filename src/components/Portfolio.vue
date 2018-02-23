@@ -19,7 +19,7 @@
            <div class="col-md-10 detail-project">
             <h3> My Personal Web Portfolio </h3>
             <p> This is a personal Web Portfolio that I developed for personal use </p>
-            <a href="https://github.com/mfaridzia/mfaridzia.github.io" class="btn btn-primary"> See Details </a>
+            <a href="https://github.com/mfaridzia/portfolio/" class="btn btn-primary"> See Details </a>
           </div>
 
           <div class="col-md-10 see-more">
